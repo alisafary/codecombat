@@ -10,8 +10,8 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    ipad_browser: "Bad news: CodeCombat doesn't run on iPad in the browser. Good news: our native iPad app is awaiting Apple approval."
     campaign: "کمپین"
 #    for_beginners: "For Beginners"
-#    multiplayer: "Multiplayer" # Not currently shown on home page
-#    for_developers: "For Developers" # Not currently shown on home page.
+    multiplayer: "چند نفره" # Not currently shown on home page
+    for_developers: "برای توسعه دهندگان" # Not currently shown on home page.
 #    or_ipad: "Or download for iPad"
 #    hoc_class_code: "I Have a Class Code"
 #    hoc_enter: "Enter"
@@ -19,13 +19,13 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 
   nav:
     play: "سطوح" # The top nav bar entry where players choose which levels to play
-#    community: "Community"
+    community: "انجمن"
 #    courses: "Courses"
     editor: "ویرایشگر"
     blog: "بلاگ"
     forum: "انجمن"
 #    account: "Account"
-#    profile: "Profile"
+    profile: "پروفایل"
 #    stats: "Stats"
 #    code: "Code"
     admin: "مدیر" # Only shows up when you are an admin

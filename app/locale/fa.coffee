@@ -5,38 +5,38 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
     no_mobile: "این بازی برای دستگاه های موبایل طراحی نشده است و بر روی آن ها اجرا نمی شود" # Warning that shows up on mobile devices
     play: "شروع بازی" # The big play button that opens up the campaign view.
 #    play_campaign_version: "Play Campaign Version" # Shows up under big play button if you only play /courses
-#    old_browser: "Uh oh, your browser is too old to run CodeCombat. Sorry!" # Warning that shows up on really old Firefox/Chrome/Safari
+    old_browser: "اوه!، مرورگر شما قدیمی تر از آن است که کد کمبت را اجرا نماید. متاسفیم!" # Warning that shows up on really old Firefox/Chrome/Safari
 #    old_browser_suffix: "You can try anyway, but it probably won't work."
 #    ipad_browser: "Bad news: CodeCombat doesn't run on iPad in the browser. Good news: our native iPad app is awaiting Apple approval."
-#    campaign: "Campaign"
+    campaign: "کمپین"
 #    for_beginners: "For Beginners"
-#    multiplayer: "Multiplayer" # Not currently shown on home page
-#    for_developers: "For Developers" # Not currently shown on home page.
-#    or_ipad: "Or download for iPad"
+    multiplayer: "چندنفره" # Not currently shown on home page
+    for_developers: "برای توسعه دهندگان" # Not currently shown on home page.
+    or_ipad: "یا دانلود برای آیپد"
 
-#  new_home:
+  new_home:
 #    slogan: "The most engaging game for learning programming."
-#    classroom_edition: "Classroom Edition:"
+    classroom_edition: "نسخه کلاس درس:"
 #    learn_to_code: "Learn to code:"
-#    teacher: "Teacher"
-#    student: "Student"
-#    play_now: "Play Now"
-#    im_a_teacher: "I'm a Teacher"
-#    im_a_student: "I'm a Student"
-#    learn_more: "Learn more"
+    teacher: "معلم"
+    student: "دانش آموز"
+    play_now: "شروع بازی"
+    im_a_teacher: "من معلم هستم."
+    im_a_student: "من دانش آموز هستم"
+    learn_more: "بیشتر بدانید"
 #    classroom_in_a_box: "A classroom in-a-box for teaching computer science."
 #    codecombat_is: "CodeCombat is a platform <strong>for students</strong> to learn computer science while playing through a real game."
 #    our_courses: "Our courses have been specifically playtested to <strong>excel in the classroom</strong>, even by teachers with little to no prior programming experience."
 #    top_screenshots_hint: "Students write code and see their changes update in real-time"
 #    designed_with: "Designed with teachers in mind"
 #    real_code: "Real, typed code"
-#    from_the_first_level: "from the first level"
+    from_the_first_level: "از اولین مرحله"
 #    getting_students: "Getting students to typed code as quickly as possible is critical to learning programming syntax and proper structure."
 #    educator_resources: "Educator resources"
 #    course_guides: "and course guides"
 #    teaching_computer_science: "Teaching computer science does not require a costly degree, because we provide tools to support educators of all backgrounds."
 #    accessible_to: "Accessible to"
-#    everyone: "everyone"
+    everyone: "همه"
 #    democratizing: "Democratizing the process of learning coding is at the core of our philosophy. Everyone should be able to learn to code."
 #    forgot_learning: "I think they actually forgot that they were actually learning something."
 #    wanted_to_do: " Coding is something I've always wanted to do, and I never thought I would be able to learn it in school."
@@ -62,8 +62,8 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    get_started_title: "Set up your class today"
 #    get_started_subtitle: "Set up a class, add your students, and monitor their progress as they learn computer science."
 #    request_demo: "Request a Demo"
-#    setup_a_class: "Set Up a Class"
-#    have_an_account: "Have an account?"
+    setup_a_class: "ساخت کلاس"
+    have_an_account: "یک حساب کاربری دارید؟"
 #    logged_in_as: "You are currently logged in as"
 #    view_my_classes: "View my classes"
 #    computer_science: "Computer science courses for all ages"
@@ -71,19 +71,19 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    curriculum: "Total curriculum hours:"
 #    ffa: "Free for all students"
 #    lesson_time: "Lesson time:"
-#    coming_soon: "Coming soon!"
+    coming_soon: "به زودی!"
 #    courses_available_in: "Courses are available in JavaScript, Python, and Java (coming soon!)"
 #    boast: "Boasts riddles that are complex enough to fascinate gamers and coders alike."
 #    winning: "A winning combination of RPG gameplay and programming homework that pulls off making kid-friendly education legitimately enjoyable."
 #    run_class: "Everything you need to run a computer science class in your school today, no CS background required."
-#    teachers: "Teachers!"
+    teachers: "معلم ها!"
 #    teachers_and_educators: "Teachers & Educators"
 #    class_in_box: "Learn how our classroom-in-a-box platform fits into your curriculum."
 #    get_started: "Get Started"
-#    students: "Students:"
+    students: "دانش آموزان:"
 #    join_class: "Join Class"
-#    role: "Your role:"
-#    student_count: "Number of students:"
+    role: "نقش شما:"
+    student_count: "تعداد دانش آموزان:"
 #    start_playing_for_free: "Start Playing for Free!"
 #    students_and_players: "Students & Players"
 #    goto_classes: "Go to My Classes"
@@ -95,40 +95,40 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    form_select_range: "Select class size"
 
   nav:
-    play: "سطوح" # The top nav bar entry where players choose which levels to play
-#    community: "Community"
-#    courses: "Courses"
+    play: "شروع بازی" # The top nav bar entry where players choose which levels to play
+    community: "انجمن"
+    courses: "دوره ها"
     editor: "ویرایشگر"
     blog: "بلاگ"
     forum: "انجمن"
-#    account: "Account"
-#    my_account: "My Account"
-#    profile: "Profile"
-#    stats: "Stats"
-#    code: "Code"
+    account: "حساب کاربری"
+    my_account: "حساب کاربری من"
+    profile: "پروفایل"
+    stats: "آمار"
+    code: "کد"
     home: "خانه"
     contribute: "همکاری"
     legal: "موارد قانونی"
     about: "درباره"
     contact: "تماس "
     twitter_follow: "دنبال کردن"
-#    students: "Students"
-#    teachers: "Teachers"
+    students: "دانش آموزها"
+    teachers: "معلم ها"
 #    careers: "Careers"
-#    facebook: "Facebook"
-#    twitter: "Twitter"
-#    create_a_class: "Create a Class"
+    facebook: "فیس بوک"
+    twitter: "توئیتر"
+    create_a_class: "ساخت یک کلاس:"
 #    other: "Other"
 #    learn_to_code: "Learn to Code!"
 #    toggle_nav: "Toggle navigation"
-#    jobs: "Jobs"
-#    schools: "Schools"
+    jobs: "شغل ها"
+    schools: "مدرسه ها"
 #    educator_wiki: "Educator Wiki"
 #    get_involved: "Get Involved"
 #    open_source: "Open source (GitHub)"
 #    support: "Support"
 #    faqs: "FAQs"
-#    help_pref: "Need help? Email"
+    help_pref: "کمک لازم دارید؟ ایمیل بزنید"
 #    help_suff: "and we'll get in touch!"
 
   modal:
@@ -150,21 +150,21 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    play_as: "Play As" # Ladder page
 #    compete: "Compete!" # Course details page
 #    spectate: "Spectate" # Ladder page
-#    players: "players" # Hover over a level on /play
+    players: "بازیکنان" # Hover over a level on /play
 #    hours_played: "hours played" # Hover over a level on /play
-#    items: "Items" # Tooltip on item shop button from /play
+    items: "آیتم ها" # Tooltip on item shop button from /play
 #    unlock: "Unlock" # For purchasing items and heroes
 #    confirm: "Confirm"
 #    owned: "Owned" # For items you own
 #    locked: "Locked"
 #    purchasable: "Purchasable" # For a hero you unlocked but haven't purchased
-#    available: "Available"
+    available: "در دسترس"
 #    skills_granted: "Skills Granted" # Property documentation details
 #    heroes: "Heroes" # Tooltip on hero shop button from /play
 #    achievements: "Achievements" # Tooltip on achievement list button from /play
-#    account: "Account" # Tooltip on account button from /play
-#    settings: "Settings" # Tooltip on settings button from /play
-#    poll: "Poll" # Tooltip on poll button from /play
+    account: "حساب کاربری" # Tooltip on account button from /play
+    settings: "تنظیمات" # Tooltip on settings button from /play
+    poll: "نظرسنجی" # Tooltip on poll button from /play
 #    next: "Next" # Go from choose hero to choose inventory before playing a level
 #    change_hero: "Change Hero" # Go back from choose inventory to choose hero
 #    buy_gems: "Buy Gems"
@@ -232,11 +232,11 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    nil: "nil"
 #    None: "None"
 
-#  share_progress_modal:
+  share_progress_modal:
 #    blurb: "You’re making great progress! Tell your parent how much you've learned with CodeCombat."
 #    email_invalid: "Email address invalid."
 #    form_blurb: "Enter your parent's email below and we’ll show them!"
-#    form_label: "Email Address"
+    form_label: "آدرس ایمیل"
 #    placeholder: "email address"
 #    title: "Excellent Work, Apprentice"
 
@@ -245,13 +245,13 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
     log_in: "ورود"
 #    logging_in: "Logging In"
     log_out: "خروج"
-#    forgot_password: "Forgot your password?"
+    forgot_password: "پسورد خود را فراموش کرده اید؟"
 #    authenticate_gplus: "Authenticate G+"
 #    load_profile: "Load G+ Profile"
 #    finishing: "Finishing"
 #    sign_in_with_facebook: "Sign in with Facebook"
 #    sign_in_with_gplus: "Sign in with G+"
-#    signup_switch: "Want to create an account?"
+    signup_switch: "می خواهید یک حساب کاربری بسازید؟"
 
   signup:
     email_announcements: "دریافت اطلاعیه ها توسط ایمیل"
@@ -260,8 +260,8 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
     log_in: "ورود به وسیله رمز عبور"
 #    required: "You need to log in before you can go that way."
 #    login_switch: "Already have an account?"
-#    school_name: "School Name and City"
-#    optional: "optional"
+    school_name: "نام مدرسه و شهر"
+    optional: "اختیاری"
 #    school_name_placeholder: "Example High School, Springfield, IL"
 #    or_sign_up_with: "or sign up with"
 #    connected_gplus_header: "You've successfully connected with Google+!"
@@ -271,12 +271,12 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    connected_facebook_p: "Finish signing up so you can log in with your Facebook account."
 #    facebook_exists: "You already have an account associated with Facebook!"
 #    hey_students: "Students, enter the class code from your teacher."
-#    birthday: "Birthday"
+    birthday: "تاریخ تولد"
 
   recover:
     recover_account_title: "بازیابی حساب کاربری"
     send_password: "ارسال رمز عبور بازیابی شده"
-#    recovery_sent: "Recovery email sent."
+    recovery_sent: "ایمیل بازیابی ارسال شد."
 
 #  items:
 #    primary: "Primary"
@@ -287,22 +287,22 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    books: "Books"
 
   common:
-#    back: "Back" # When used as an action verb, like "Navigate backward"
-#    continue: "Continue" # When used as an action verb, like "Continue forward"
+    back: "بازگشت" # When used as an action verb, like "Navigate backward"
+    continue: "ادامه" # When used as an action verb, like "Continue forward"
     loading: "...در حال بارگذاری"
     saving: "...در حال ذخیره سازی"
     sending: "...در حال ارسال"
-#    send: "Send"
+    send: "ارسال"
     cancel: "لغو"
     save: "ذخیره "
 #    publish: "Publish"
-#    create: "Create"
+    create: "ساختن"
 #    fork: "Fork"
-    play: "سطوح" # When used as an action verb, like "Play next level"
-#    retry: "Retry"
+    play: "شروع بازی" # When used as an action verb, like "Play next level"
+    retry: "دوباره"
 #    actions: "Actions"
-#    info: "Info"
-#    help: "Help"
+    info: "اطلاعات"
+    help: "راهنمایی"
 #    watch: "Watch"
 #    unwatch: "Unwatch"
 #    submit_patch: "Submit Patch"
@@ -311,11 +311,11 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    required_field: "Required field"
 
   general:
-#    and: "and"
+    and: "و"
     name: "نام"
-#    date: "Date"
+    date: "تاریخ"
 #    body: "Body"
-#    version: "Version"
+    version: "نسخه"
 #    pending: "Pending"
 #    accepted: "Accepted"
 #    rejected: "Rejected"
@@ -334,35 +334,35 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    redo_prefix: "Redo"
 #    redo_shortcut: "(Ctrl+Shift+Z)"
 #    play_preview: "Play preview of current level"
-#    result: "Result"
-#    results: "Results"
-#    description: "Description"
+    result: "نتیجه"
+    results: "نتایج"
+    description: "توضیحات"
     or: "یا"
-#    subject: "Subject"
+    subject: "موضوع"
     email: "ایمیل"
-#    password: "Password"
-#    confirm_password: "Confirm Password"
+    password: "رمز عبور"
+    confirm_password: "تایید رمز عبور"
     message: "پیام"
-#    code: "Code"
+    code: "کد"
 #    ladder: "Ladder"
 #    when: "When"
 #    opponent: "Opponent"
 #    rank: "Rank"
-#    score: "Score"
-#    win: "Win"
-#    loss: "Loss"
-#    tie: "Tie"
-#    easy: "Easy"
-#    medium: "Medium"
-#    hard: "Hard"
-#    player: "Player"
-#    player_level: "Level" # Like player level 5, not like level: Dungeons of Kithgard
-#    warrior: "Warrior"
+    score: "امتیاز"
+    win: "برد"
+    loss: "باخت"
+    tie: "مساوی"
+    easy: "آسان"
+    medium: "متوسط"
+    hard: "سخت"
+    player: "بازیکن"
+    player_level: "سطح" # Like player level 5, not like level: Dungeons of Kithgard
+    warrior: "جنگجو"
 #    ranger: "Ranger"
 #    wizard: "Wizard"
-#    first_name: "First Name"
-#    last_name: "Last Name"
-#    username: "Username"
+    first_name: "نام"
+    last_name: "نام خانوادگی"
+    username: "نام کاربری"
 
 #  units:
 #    second: "second"
